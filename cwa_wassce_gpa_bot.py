@@ -3,7 +3,7 @@ import time
 from telebot import types
 
 # Bot token
-API_TOKEN = '7386952987:AAGzS2x36prNB1A0xk1SsXED4bHfgzq8Go4'
+API_TOKEN = 'enter_your_API_token_here'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Dictionary to keep track of user's current state
